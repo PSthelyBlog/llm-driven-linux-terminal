@@ -1,5 +1,8 @@
 # LLM-Driven Linux Terminal v1.0.0
 
+Claude AI Public Artifact:   
+https://claude.ai/public/artifacts/fbf5fe96-5040-4461-bede-c470b82f30fb
+
 A production-ready Linux terminal emulator powered by Claude Sonnet 4 that seamlessly understands both traditional Linux commands and natural language requests. This innovative system demonstrates how Large Language Models can maintain complex stateful environments while providing an intuitive user interface.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
